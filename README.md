@@ -2,7 +2,7 @@
 
 ## Overview
 
-his project implements a **geometric shape detection algorithm** in TypeScript using **Node.js,json,js,html**.  
+This project implements a **geometric shape detection algorithm** in TypeScript using **Node.js,json,js,html**.  
 It identifies and classifies shapes such as **triangles**, **rectangles**, **squares**, and **circles** from input images.
 
 ## 🚀 Features
